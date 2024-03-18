@@ -1,0 +1,6 @@
+eprint("my name is susan maina")
+print("I am 17 years old")
+print("i come from Kiambu county")
+print("I love swimming")
+print("********")
+print("#########")
